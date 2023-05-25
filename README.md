@@ -11,7 +11,7 @@ In this file it will give a quick tutorial abbout what is this project, its purp
 - [DJANGO](https://www.djangoproject.com/)
 - [PYTHON](https://www.python.org/)
 
-### 🎲 INSTALAÇÃO E CONFIGURAÇÃO
+### 🎲 INSTALATION AND CONFIGURATION
 ------------
 
 To run this project you need to have: `python` 3.x
